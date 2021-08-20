@@ -1,0 +1,16 @@
+p{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Ultimo{
+color: chartreuse;
+font-style: italic;
+font-size: 10 px;
+}
+h4{
+    font-style: oblique;
+}
+.idea{
+    color: violet;
+    text-decoration:underline;
+}

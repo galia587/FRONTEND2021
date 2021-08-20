@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stilos/estiloU3">
+    <title>CV de Gabriela</title>
+</head>
+<body>
+    <h1>Gabriela Astrada</h1>
+    <img src="img/foto-solicitud.jpg" alt="Imagen1">
+    <h3>Edad: 38</h3>
+    <h2>Domicilio: Calle Pública 555</h2>
+    <h4>Bandas de Música que me gustan inernacionales:</h4>
+    <ul><li>U2</li>
+    <li>KEANE</li>
+    <li>COLDPLAY</li>
+    </ul>
+    <h4>Bandas de Música que me gustan nacionales:</h4>
+    <ol>
+    <li>SODA STEREO</li>
+    <li>REDONDOS</li>
+    <li>GUASONES</li>
+    </ol>
+<h3>Perfil</h3>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <span class="idea"> Perferendis laboriosam optio 
+    ipsam animi numquam similique vero expedita deleniti ratione.</span> Non expedita ut mollitia 
+    blanditiis voluptatem consequuntur unde amet quam velit!</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque placeat vel cupiditate suscipit et doloremque,
+     ratione voluptates dolor adipisci, culpa est? Ab accusantium suscipit nostrum expedita iusto dolorem
+     officia molestias?</p>
+<p id="Ultimo">Lorem ipsum dolor sit amet consectetur adipisicing elit. <span class="idea"> Nemo, tenetur ratione ea molestias ab labore quae. 
+    Molestias enim, iusto ipsum porro, voluptatibus maxime nobis amet excepturi placeat culpa alias illum!</span></p>
+<h4>Has click aquí <a href="https://www.facebook.com/" target="valor">para mas información personal</a></h4>
+</body>
+</html>
