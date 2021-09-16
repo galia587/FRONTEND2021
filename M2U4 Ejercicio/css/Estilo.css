@@ -1,0 +1,7 @@
+/*font-family: 'Patrick Hand', cursive;*/
+.hero{
+    background: url(../img/LogoSetUP1.png) no-repeat;
+    background-size:contain;
+    height: 50vh;
+    background-position: center;
+}
